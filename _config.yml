@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ankit Agarwal # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Ankit
 middle_name: 
 last_name: Agarwal
@@ -87,7 +87,7 @@ lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: a4ankit # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: ankit824 # your Medium username
+medium_username:  # your Medium username
 orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
@@ -160,7 +160,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: Ankit # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -435,8 +435,8 @@ enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
-enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_darkmode: false # enables switching between light/dark modes
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
