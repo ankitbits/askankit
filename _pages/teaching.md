@@ -6,7 +6,7 @@ description: These are some of my learnings on product management and entreprene
 
 These learnings are derived from my personal experiences and from experiences of dozens of other PMs/ founders / coaches who took time to write about their learnings for others consume and build amazing stuff.
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 
