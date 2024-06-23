@@ -18,7 +18,7 @@ Opinions expire fast as I learn more. I publish here to connect with people on s
 
 #### **2024**
 
-- [API PM](https://ankitbits.github.io/askankit/APIPM/)
+- [API PM](https://ankitbits.github.io/askankit/apipm/)
 - [Managing Design Bandwidth Bottlenecks: A Playbook for PMs](http://askankit.me/designer-bandwidth/)
 - [Know this before you move to Product](http://askankit.me/pm-regrets)
 
