@@ -6,7 +6,7 @@ title: Good API PM, Bad API PM
 #description: #this is what included tabs in a post could look like
 #tags: #formatting code
 #categories: #sample-posts
-#tabs: #true
+#tabs: #true 
 ---
 
 
