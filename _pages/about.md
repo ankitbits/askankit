@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Hi 👋! Welcome.
+subtitle: 
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -24,16 +24,17 @@ social: true # includes social icons at the bottom of the page
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 ---
+Hi 👋! Welcome.
 
 I'm Ankit, based in Bangalore, India. 
 
 I’ve been a founder and a product, growth professional for 10+ years. I love understanding how the world works — one insight at a time. Building stuff is my approach to gaining insights and contributing back after internalising them.
 
 At AskAnkit Consulting, I co-pilot with early-stage founders to lead product growth and monetisation. 
-View my portfolio [here] (https://askankit.me/portfolio-2/). [Work with me] (https://askankit.me/work-with-me/).
+View my portfolio [here](https://askankit.me/portfolio-2/). [Work with me](https://askankit.me/work-with-me/).
 
 I’m a curious human. I read vicariously for my love of learning and to view the world from the POV of fellow learned beings. I like reflecting and writing helps me with that.
 
-Writings on [Product Management & Entrepreneurship] (https://askankit.me/pm/).
+[Writings](https://askankit.me/pm/) on Product Management & Entrepreneurship.
 
 Unfiltered [Thoughts](https://askankit.me/articles/).

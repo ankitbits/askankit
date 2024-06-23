@@ -131,8 +131,13 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: # blog_name will be displayed in your blog page
+blog_description: 
+I write for myself. Writing helps me organise and expand on my thoughts. Writing also helps clear my head for new thoughts.
+
+Articles here are written succinctly and may have unintentional biases and inaccuracies — you’re welcome to point them out to me.
+
+Opinions expire fast as I learn more. I publish here to connect with people on similar journeys and make new friends.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
