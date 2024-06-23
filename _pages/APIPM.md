@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /APIPM
 title: Good API PM, Bad API PM
 date: #2022-05-01 00:32:13
