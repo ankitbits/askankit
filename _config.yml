@@ -138,7 +138,7 @@ I write for myself. Writing helps me organise and expand on my thoughts. Writing
 Articles here are written succinctly and may have unintentional biases and inaccuracies — you’re welcome to point them out to me.
 
 Opinions expire fast as I learn more. I publish here to connect with people on similar journeys and make new friends.
-permalink: /blog/:year/:title/
+permalink: #/blog/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
