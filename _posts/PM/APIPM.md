@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 permalink: /APIPM
 title: Good API PM, Bad API PM
-date: 2022-05-01 00:32:13
+date: #2022-05-01 00:32:13
 description: #this is what included tabs in a post could look like
 tags: #formatting code
 categories: #sample-posts
