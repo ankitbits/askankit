@@ -1,12 +1,12 @@
 ---
-layout: post
-#permalink: /APIPM
+layout: page
+permalink: /apipm/
 title: Good API PM, Bad API PM
-date: 2024-05-01 00:32:13
-description: #this is what included tabs in a post could look like
-tags: #formatting code
-categories: #sample-posts
-tabs: #true
+#date: 2024-05-01 00:32:13
+#description: #this is what included tabs in a post could look like
+#tags: #formatting code
+#categories: #sample-posts
+#tabs: #true
 ---
 
 
@@ -15,7 +15,6 @@ tabs: #true
 ***Good API PMs embrace API as a product, and not just as a piece of code*.** They look at APIs from product point of view — something that has real human users. Something that is desirable and usable. Something that’s feasible for us to build, market and make money from — sufficient in and itself. They realise they they sit between the producer (the dev colleague), the consumer (the dev customer) and the sponsor (business), and that they need to bring value to each of these parties — just like how they do for traditional products.
 
 Bad API PMs look at APIs from code / IT lenses. They project manage the interaction between the producer and the consumer and assume product responsibility only towards the sponsor which renders them ineffective or redundant.
-
 
 ***Good API PMs are hands on with technology***. They understand how things work. They understand what is feasible, what is not. They understand industry standards and best practices. If they don’t, they are open about it and take their time to get upto speed with things. They are the first users of their products. They recognise that they can’t add value if they can’t understand the language of both business and technology. They need to use this language to define and evangelise the value. They get themselves the understanding required to make important tradeoffs pertaining feasibility and usability.
 
@@ -28,8 +27,6 @@ Bad API PMs focus only on business stakeholders. They understand the requirement
 ***Good API PMs think platform*.** They understand that they sit almost at the bottom of pyramid when it comes to value creation. They understand that their actions (both positive and negative) have domino effect across the value chain. So, they think higher order. They think ahead of time. They think of problems that customers are not even thinking of right now. They think modular. They anticipate future requirements, use cases and power user scenarios. They understand that they need to optimise for architecture design as much as or more than they need to optimise for velocity. They understand sunk cost of bad decisions at foundation level. They think upgrades and backward compatibility.
 
 Bad API PMs operate reactively. They think short term. This keeps them in firefighting mode. This renders the platform inflexible and unscalable.
-
-!https://askankitin.wordpress.com/wp-content/uploads/2023/02/screenshot-2023-02-02-at-2.41.04-pm.png?w=840
 
 ***Good API PMs think backwards from the API reference***. API reference is the UI for API product. Good API PMs write great API spec. They work outside in keeping developers interest at the heart of problem solving. They define the resource utility, the request spec, the response spec and the errors.
 
