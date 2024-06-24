@@ -5,11 +5,12 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ankit
 middle_name: Agarwal
-last_name: 
-email: bits.ankit@gmail.com
+last_name:
+email: ankit@askankit.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ankit's digital home. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
+Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> & a href="https://pages.github.com/" target="_blank">GitHub</a>.
 #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -17,7 +18,7 @@ keywords: AskAnkit, askankit-consulting, ankit-agarwal # add your own keywords o
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: fav.jpg # the emoji used as the favicon (alt`ernatively, provide image name in /assets/img/)
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
+url: https://alshedivat.github.io # the base hostname & protocol for your site SS
 baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -49,11 +50,11 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: false
+search_enabled: true
 socials_in_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 600px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -111,6 +112,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
+Always happy to grab a coffee or a zoom!
 #  You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
@@ -138,7 +140,7 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: fale
+  enabled: false
 
 related_blog_posts:
   enabled: true
@@ -434,7 +436,7 @@ enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
-enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
+enable_tooltips: true # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: false # enables switching between light/dark modes
 enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
