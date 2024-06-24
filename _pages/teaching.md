@@ -16,7 +16,7 @@ These learnings are derived from my personal experiences and from experiences of
 
 Opinions expire fast as I learn more. I publish here to connect with people on similar journeys and make new friends.
 
-<p style="text-align: center;">[**2024**](#2024) - [**2023**](#2023) - [**2022**](#2022) - [**2021**](#2021) - [**2020**](#2020) - [**2019**](#2019) - [**Old**](#2018--earlier) <br> </p>*
+[**2024**](#2024) - [**2023**](#2023) - [**2022**](#2022) - [**2021**](#2021) - [**2020**](#2020) - [**2019**](#2019) - [**Old**](#2018--earlier)
 
 
 ##### **2024**
