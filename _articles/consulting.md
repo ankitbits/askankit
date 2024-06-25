@@ -1,3 +1,4 @@
+---
 layout: page
 permalink: /consulting/
 title: Founder’s Product Co-pilot
